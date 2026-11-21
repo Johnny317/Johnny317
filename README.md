@@ -10,6 +10,7 @@ Desarrollador full-stack y móvil de Cuenca, Ecuador, titulado en el Instituto S
 - **Rimay** (privado): traductor de Lengua de Señas Ecuatoriana. Desarrollé la app móvil en Flutter: detección de manos con MediaPipe, traducción con IA, videollamadas WebRTC y chat en tiempo real.
 - **[LactaCare](https://github.com/Farez16/Lacta-Care-APP)**: app Android nativa (Kotlin, Jetpack Compose) para gestión de lactarios institucionales. Hice el login y registro por rol, el módulo de administrador y los reportes.
 - **[Inti](https://github.com/Farez16/ProyectoInti)**: app educativa en Java/Swing para aprender kichwa, con login de Google y recuperación de cuenta por OTP. Hice las unidades, actividades y evaluaciones.
+- **Kuntur** (privado): sistema de gestión de tutorías académicas en Java/Swing, con portales de administrador, tutor y estudiante, reportes PDF (iText) y gráficos (JFreeChart).
 
 ### Stack
 
