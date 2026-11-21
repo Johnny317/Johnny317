@@ -24,4 +24,5 @@ Desarrollador full-stack y móvil de Cuenca, Ecuador, titulado en el Instituto S
 ### Contacto
 
 - Email: [johnny204es@gmail.com](mailto:johnny204es@gmail.com)
+- LinkedIn: [linkedin.com/in/johnny-espinoza-ab2072451](https://www.linkedin.com/in/johnny-espinoza-ab2072451)
 - Español nativo · inglés intermedio · kichwa básico
