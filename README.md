@@ -2,7 +2,7 @@
 
 **Tecnólogo en Desarrollo de Software** | Java · Spring Boot · Angular · React · Flutter · Kotlin
 
-Desarrollador full-stack y móvil de Cuenca, Ecuador, titulado en el Instituto Superior Tecnológico del Azuay. Desde enero de 2026 desarrollo en equipo la plataforma de capacitación en línea de **RENAFIPSE** (Spring Boot + Angular), con pagos en línea y certificados con firma electrónica. Desarrollé una app móvil en Flutter de **Rimay**, un traductor de Lengua de Señas Ecuatoriana con IA y videollamadas en tiempo real. Busco trabajo como desarrollador, de preferencia remoto.
+Desarrollador full-stack y móvil de Cuenca, Ecuador, titulado en el Instituto Superior Tecnológico del Azuay. De marzo a septiembre de 2026 desarrollé en equipo la plataforma de capacitación en línea de **RENAFIPSE** (Spring Boot + Angular), con pagos en línea y certificados con firma electrónica. Desarrollé una app móvil en Flutter de **Rimay**, un traductor de Lengua de Señas Ecuatoriana con IA y videollamadas en tiempo real. Busco trabajo como desarrollador, de preferencia remoto.
 
 ### Proyectos destacados
 
